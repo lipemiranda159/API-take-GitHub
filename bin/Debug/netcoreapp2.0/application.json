@@ -1,0 +1,15 @@
+﻿{
+    /* TODO: Put your chatbot identifier and accessKey bellow. */
+    "identifier": "centraldeajudarepositorio",
+    "accessKey": "RVZSQ2VvaHA1b1RGWGpnaVE3N0o=",
+    "messageReceivers": [{
+        "type": "PlainTextMessageReceiver",
+        "mediaType": "text/plain"
+    }],
+    "settings": {
+        "key1": "value1",
+        "key2": 2
+    },
+    "settingsType": "Settings",
+    "startupType": "Startup"
+}
