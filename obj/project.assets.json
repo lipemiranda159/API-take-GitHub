@@ -6169,11 +6169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\MyBot\\MyBot.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Estudo-Gerenciamento-Usuários-rest-api-\\API-take-GitHub\\MyBot.csproj",
       "projectName": "MyBot",
-      "projectPath": "C:\\Users\\samue\\MyBot\\MyBot.csproj",
+      "projectPath": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Estudo-Gerenciamento-Usuários-rest-api-\\API-take-GitHub\\MyBot.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\MyBot\\obj\\",
+      "outputPath": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Estudo-Gerenciamento-Usuários-rest-api-\\API-take-GitHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

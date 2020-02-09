@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using Lime.Protocol.Server;
 using Serilog;
-using Serilog.Core;
 using Take.Blip.Client;
 
 namespace MyBot
