@@ -1,3 +1,3 @@
-﻿Navigate to https://portal.blip.ai to retrieve your application's identifier and access key.
+Api usando a interface do https://portal.blip.ai criado para o teste admissional da take. O objetivo dela é retornar os 5 primeiros repositórios da take, na linguagem c#, em ordem alfabética. 
 
-See more information about how to build your application at https://portal.blip.ai/#/docs.
+Para mais informações sobre como criar sua aplicação em: https://portal.blip.ai/#/docs.
